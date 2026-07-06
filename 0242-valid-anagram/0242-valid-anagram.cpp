@@ -7,15 +7,22 @@ public:
             return false;
         }
 
-        unordered_map<char, int> freqS;
-        unordered_map<char, int> freqT;
+        unordered_map<char, int> freq;
 
         for(int i = 0; i < s.size(); i++)
         {
-            freqS[s[i]]++;
-            freqT[t[i]]++;
+            freq[s[i]]++;
+            freq[t[i]]--;
         }
 
-        return freqS == freqT;
+        for(auto it : freq)
+        {
+            if(it.second != 0)
+            {
+                return false;
+            }
+        }
+
+        return true;
     }
 };
