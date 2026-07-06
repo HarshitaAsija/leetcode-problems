@@ -47,3 +47,14 @@ public:
         return candidate;
     }
 };
+/*dry run----
+
+nums = [2,2,1,1,1,2,2]
+Current num	Candidate	Count	Explanation
+2	2	1	Count was 0 → choose new candidate
+2	2	2	Same as candidate → count++
+1	2	1	Different → count--
+1	2	0	Different → count--
+1	1	1	Count became 0 → choose new candidate
+2	1	0	Different → count--
+2	2	1	Count became 0 → choose new candidate*/
