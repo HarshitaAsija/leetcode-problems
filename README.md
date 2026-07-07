@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
