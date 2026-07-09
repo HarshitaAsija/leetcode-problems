@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0706-design-hashmap) |
 ## Sorting
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
@@ -61,14 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -77,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -107,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0189-rotate-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
