@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0706-design-hashmap) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -123,4 +125,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
