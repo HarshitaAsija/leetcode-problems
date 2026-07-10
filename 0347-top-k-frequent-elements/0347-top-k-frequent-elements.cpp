@@ -10,23 +10,23 @@ public:
             freq[num]++;
         }
 
-        // Max Heap:
-        // Pair = {frequency, element}
-        priority_queue<pair<int, int>> pq;
+        // Max Heap
+        // Pair format = {frequency, element}
+        priority_queue<pair<int, int>> maxHeap;
 
         // Push every element along with its frequency.
         for(auto it : freq)
         {
-            pq.push({it.second, it.first});
+            maxHeap.push({it.second, it.first});
         }
 
         vector<int> ans;
 
-        // Extract top k frequent elements.
+        // Extract the top k frequent elements.
         while(k--)
         {
-            ans.push_back(pq.top().second);
-            pq.pop();
+            ans.push_back(maxHeap.top().second);
+            maxHeap.pop();
         }
 
         return ans;
