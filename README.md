@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
