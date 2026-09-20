@@ -2,27 +2,28 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
 
-        // Key  : Sorted version of string
-        // Value: All strings having that sorted version
+        // Key = sorted version of word
+        // Value = words having the same sorted version
         unordered_map<string, vector<string>> mp;
 
-        for(string s : strs)
-        {
-            string temp = s;
+        // Process every word
+        for (string word : strs) {
 
-            // Sort characters
-            sort(temp.begin(), temp.end());
+            // Create a copy of the word
+            string key = word;
 
-            // Store original string against sorted string
-            mp[temp].push_back(s);
+            // Sort the characters
+            sort(key.begin(), key.end());
+
+            // Put the original word into its group
+            mp[key].push_back(word);
         }
 
         vector<vector<string>> ans;
 
         // Collect all groups
-        for(auto it : mp)
-        {
-            ans.push_back(it.second);
+        for (auto& pair : mp) {
+            ans.push_back(pair.second);
         }
 
         return ans;
