@@ -2,32 +2,32 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
 
-        // If there are no strings, answer is empty
-        if(strs.empty())
-            return "";
-
-        // Assume the first string is our current prefix
+        // Take the first string as the initial prefix
         string prefix = strs[0];
 
-        // Compare this prefix with every other string
-        for(int i = 1; i < strs.size(); i++)
-        {
+        // Compare it with every other string
+        for (int i = 1; i < strs.size(); i++) {
 
-            // Keep reducing the prefix until
-            // it becomes the prefix of strs[i]
-            while(strs[i].find(prefix) != 0)
-            {
+            int j = 0;
 
-                // Remove the last character
-                prefix.pop_back();
+            // Find matching characters
+            while (j < prefix.size() &&
+                   j < strs[i].size() &&
+                   prefix[j] == strs[i][j]) {
 
-                // If nothing is left,
-                // there is no common prefix
-                if(prefix.empty())
-                    return "";
+                j++;
+            }
+
+            // Keep only the matching part
+            prefix = prefix.substr(0, j);
+
+            // If nothing matches, return empty string
+            if (prefix.empty()) {
+                return "";
             }
         }
 
         return prefix;
     }
+
 };
