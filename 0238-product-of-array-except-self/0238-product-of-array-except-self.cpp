@@ -1,31 +1,21 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-
         int n = nums.size();
+        vector<int> ans(n, 1);
 
-        vector<int> answer(n, 1);
-
-        // Step 1:
-        // Store product of all elements to the LEFT.
         int prefix = 1;
-
-        for(int i = 0; i < n; i++)
-        {
-            answer[i] = prefix;
+        for (int i = 0; i < n; i++) {
+            ans[i] = prefix;
             prefix *= nums[i];
         }
 
-        // Step 2:
-        // Multiply with product of all elements to the RIGHT.
         int suffix = 1;
-
-        for(int i = n - 1; i >= 0; i--)
-        {
-            answer[i] *= suffix;
+        for (int i = n - 1; i >= 0; i--) {
+            ans[i] *= suffix;
             suffix *= nums[i];
         }
 
-        return answer;
+        return ans;
     }
 };
