@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0493-reverse-pairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
