@@ -20,7 +20,7 @@ public:
         return -1;
     }
 };*/
-class Solution {
+/*class Solution {
 public:
     int majorityElement(vector<int>& nums) {
 
@@ -58,3 +58,25 @@ Current num	Candidate	Count	Explanation
 1	1	1	Count became 0 → choose new candidate
 2	1	0	Different → count--
 2	2	1	Count became 0 → choose new candidate*/
+
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int candidate = 0;
+        int count = 0;
+
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
+            }
+
+            if (num == candidate) {
+                count++;
+            } else {
+                count--;
+            }
+        }
+
+        return candidate;
+    }
+};
