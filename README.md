@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0344-reverse-string) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0344-reverse-string) |
