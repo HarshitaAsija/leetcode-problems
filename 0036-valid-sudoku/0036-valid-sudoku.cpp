@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
@@ -7,19 +8,20 @@ public:
 
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                char c = board[i][j];
+                if (board[i][j] == '.') continue;
 
-                if (c == '.') continue;
+                int num = board[i][j] - '1';
+                int idx = (i / 3) * 3 + j / 3;
 
-                int d = c - '1';
-                int b = (i / 3) * 3 + j / 3;
-
-                if (row[i][d] || col[j][d] || box[b][d])
+                if (row[i][num] ||
+                    col[j][num] ||
+                    box[idx][num]) {
                     return false;
+                }
 
-                row[i][d] = true;
-                col[j][d] = true;
-                box[b][d] = true;
+                row[i][num] = true;
+                col[j][num] = true;
+                box[idx][num] = true;
             }
         }
 
