@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0049-group-anagrams) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0049-group-anagrams) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
