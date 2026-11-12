@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0344-reverse-string) |
+| [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HarshitaAsija/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
@@ -101,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0561-array-partition) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0754-reach-a-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -230,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Indexed Tree
 |  |
 | ------- |
