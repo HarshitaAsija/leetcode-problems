@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0561-array-partition) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0344-reverse-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Quickselect
 |  |
 | ------- |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0754-reach-a-number) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Bit Manipulation
 |  |
 | ------- |
