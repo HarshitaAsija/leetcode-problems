@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0268-missing-number) |
+| [0754-reach-a-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0754-reach-a-number) |
 ## Array
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0754-reach-a-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0754-reach-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
