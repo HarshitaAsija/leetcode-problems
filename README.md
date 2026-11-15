@@ -287,4 +287,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
