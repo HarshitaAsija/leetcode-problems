@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0130-surrounded-regions](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Greedy
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0130-surrounded-regions) |
 ## Binary Search
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0130-surrounded-regions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -326,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
