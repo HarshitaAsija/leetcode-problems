@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
@@ -331,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0130-surrounded-regions) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
