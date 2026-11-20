@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0561-array-partition) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0561-array-partition) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0561-array-partition) |
 ## Union-Find
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0792-number-of-matching-subsequences](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Indexed Tree
 |  |
