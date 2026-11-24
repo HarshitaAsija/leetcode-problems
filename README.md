@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
@@ -354,4 +357,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
