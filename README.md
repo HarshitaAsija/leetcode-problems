@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Greedy
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitaAsija/leetcode-problems/tree/master/0435-non-overlapping-intervals) |
