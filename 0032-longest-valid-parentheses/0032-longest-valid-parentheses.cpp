@@ -6,15 +6,18 @@ public:
         int ans = 0;
 
         for(int i = 0; i < s.size(); i++) {
-            if(s[i] == '(')
+            if(s[i] == '(') {
                 st.push(i);
+            }
             else {
                 st.pop();
 
-                if(st.empty())
+                if(st.empty()) {
                     st.push(i);
-                else
+                }
+                else {
                     ans = max(ans, i - st.top());
+                }
             }
         }
         return ans;
